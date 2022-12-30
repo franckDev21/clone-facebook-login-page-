@@ -6,5 +6,5 @@ if(form && btns.length > 0){
     e.preventDefault()
 
     window.alert("😊 Hi👋, Thanks for visiting this website ❤")
-  }))
+  })) 
 }
